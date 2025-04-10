@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Birkan</h1>
 <h3 align="center">A passionate Backend Developer and Cyber Security Enthusiast from Turkey 🇹🇷</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=birkanatmaca&label=Profile%20views&color=0e75b6&style=flat" alt="birkanatmaca" /> </p>
 
 ### 🧠 About Me
 
@@ -36,7 +35,7 @@
 ---
 
 ### 📊 GitHub Stats:
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=birkanatmaca&label=Profile%20views&color=0e75b6&style=flat" alt="birkanatmaca" /> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=birkanatmaca&show_icons=true&locale=en&layout=compact" alt="birkanatmaca" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=birkanatmaca&show_icons=true&locale=en" alt="birkanatmaca" /></p>
