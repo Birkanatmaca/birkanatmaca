@@ -14,9 +14,9 @@
 
 ### 🌐 Connect with me:
 <p align="left">
-<a href="https://twitter.com/brknatmc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brknatmc" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/birkanatmaca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="birkanatmaca" height="30" width="40" /></a>
-<a href="https://instagram.com/atmaca.birkn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atmaca.birkn" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/birkanatmaca" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - birkanatmaca" height="30" width="40" />
+  </a>
 </p>
 
 ---
