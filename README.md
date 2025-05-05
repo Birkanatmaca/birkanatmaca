@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Birkan</h1>
-<h3 align="center">A passionate Backend Developer and Cyber Security Enthusiast from Turkey 🇹🇷</h3>
+<h3 align="center">A passionate Fullstack Developer Enthusiast from Turkey 🇹🇷</h3>
 
 
 ### 🧠 About Me
 
-- 👨‍💻 I'm currently focused on **Backend Development** and **Cyber Security**
+- 👨‍💻 I'm currently focused on **Fullstack Development**
 - 💻 I enjoy working with **Go**, **Python**, **React**, and **PostgreSQL**
 - 🐧 I'm currently learning and exploring **Linux systems**
 - 📬 Reach me via email: **birkanatmacaa@gmail.com**
